@@ -1,0 +1,1 @@
+Very naive implementation of a multiway graph generator for string substition systems
